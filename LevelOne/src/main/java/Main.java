@@ -31,10 +31,10 @@ public class Main {
 //        float f2 = 5.6f;
 //        System.out.println(f1);
 //        System.out.println(f2);
-//        double d1 = 33.22;
-//        double d2 = 22.33;
-//        System.out.println(d1);
-//        System.out.println(d2);
+        double d1 = 33.22;
+        double d2 = 22.33;
+        System.out.println(d1);
+        System.out.println(d2);
 
 
         // %s - String, %d - digit, %f - float, double
