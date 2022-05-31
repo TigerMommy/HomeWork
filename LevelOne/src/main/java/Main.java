@@ -7,7 +7,6 @@ public class Main {
 //        byte b1 = 12;
 //        byte b2 = 0B1100;
 //        System.out.println(b2);
-
-
+        System.out.println("Hello World!");
     }
 }
