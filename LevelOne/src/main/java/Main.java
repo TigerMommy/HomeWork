@@ -3,11 +3,11 @@ public class Main {
     // 128 64 32 16 8 4 2 1
 
     public static void main(String[] args) {
-        System.out.println("Привет");
+       // System.out.println("Привет");
 //        byte b1 = 12;
 //        byte b2 = 0B1100;
 //        System.out.println(b2);
-        System.out.println("Hello World!");
+       // System.out.println("Hello World!");
 
 //        short s1 = -1300;  // decimal
 //        short s2 = -0x514;  // hexadecimal
@@ -41,8 +41,19 @@ public class Main {
         for (int i = 0; i < 10; i++) {
             System.out.printf("Hello %d!!!\n", i);
         }
-
+        //System.out.printf("My name is %s!!!\n", "Pasha");
         //    /n   - перенос курсора на другую строку.
-        System.out.printf("My name is %s!!!\n", "Pasha");
+
+        // сила тяжести на луне состовляет около 17% земной.Напишите программу которая вычеслила бы ваш вес на луне.
+        // G1 земли = 9,8. G2  луны = 1,6; M1 тела = 70 кг; F луны = F земли * 17 %;
+
+        double g1 = 9,8;
+        double g2 = 1,6;
+        int m1 = 70;
+        int Z = 17;
+        F = m1*g1
+        System.out.println("f");
+
+
        }
 }
