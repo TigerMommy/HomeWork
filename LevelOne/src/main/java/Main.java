@@ -47,13 +47,27 @@ public class Main {
         // сила тяжести на луне состовляет около 17% земной.Напишите программу которая вычеслила бы ваш вес на луне.
         // G1 земли = 9,8. G2  луны = 1,6; M1 тела = 70 кг; F луны = F земли * 17 %;
 
-        double g1 = 9,8;
-        double g2 = 1,6;
-        int m1 = 70;
-        int Z = 17;
-        F = m1*g1
-        System.out.println("f");
+       // double g1 = 9.8;
+       // double g2 = 1.6;
+        // int m1 = 70;
+        //int Z = 17;
+        //double f = m1*g1;
+        // System.out.println(f);
 
-
+//        int i1 = 5;
+//         int i2 = 11;
+//        double D1 = 5.5;
+//        double D2 = 1.3;
+//        long L = 20l;
+//        double result = 0;
+//        result = i2 / d1 + d2 % i1 - L;
+//         System.out.println(result);
+//       int a1 = 5;
+//        int b1 = a1-- - --a1 + ++a1 +a1++ +a1;
+//        System.out.println(b1);
+//
+//        int y1 = 8;
+//        int x1 = ++y1 - y1++ + ++y1 - --y1;
+//        System.out.println(x1);
        }
 }
