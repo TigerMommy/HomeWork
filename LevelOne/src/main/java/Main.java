@@ -31,16 +31,16 @@ public class Main {
 //        float f2 = 5.6f;
 //        System.out.println(f1);
 //        System.out.println(f2);
-        double d1 = 33.22;
-        double d2 = 22.33;
-        System.out.println(d1);
-        System.out.println(d2);
-
-
-        // %s - String, %d - digit, %f - float, double
-        for (int i = 0; i < 10; i++) {
-            System.out.printf("Hello %d!!!\n", i);
-        }
+//        double d1 = 33.22;
+//        double d2 = 22.33;
+//        System.out.println(d1);
+//        System.out.println(d2);
+//
+//
+//        // %s - String, %d - digit, %f - float, double
+//        for (int i = 0; i < 10; i++) {
+//            System.out.printf("Hello %d!!!\n", i);
+//        }
         //System.out.printf("My name is %s!!!\n", "Pasha");
         //    /n   - перенос курсора на другую строку.
 
