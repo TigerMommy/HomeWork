@@ -7,7 +7,7 @@ public class Main {
 //        byte b1 = 12;
 //        byte b2 = 0B1100;
 //        System.out.println(b2);
-       // System.out.println("Hello World!");
+       System.out.println("мама привет!");
 
 //        short s1 = -1300;  // decimal
 //        short s2 = -0x514;  // hexadecimal
