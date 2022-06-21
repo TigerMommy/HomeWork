@@ -8,9 +8,11 @@ public class Student {
    double MidMath;
    double MidEcon;
     double  MidEng;
+
+    }
     // сноска mid - middle указывает на среднее значение определнного предмета(математика,экономика и английский);
 
-}
+
 
 
 
