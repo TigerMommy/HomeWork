@@ -1,24 +1,46 @@
 package Lesson04;
+ class Student {
+         public static void main(String[] args) {
 
-public class Student {
-    int id;
-    String name;
-    String surname;
-    int year;
-    double midMath;
-    double midEcon;
-    double midEng;
+         }
+         int id;
+         String name;
+         String surname;
+         int year;
+         double midMath;
+         double midEcon;
+         double midEng;
 
-    @Override
-    public String toString() {
-        return "Средняя арифметическая оценка" + " " + name + " " + surname + "=" + (midMath + midEcon + midEng) / 3;
-    }
+         Student(int id1, String name1, String surname1, int year1, double midMath1, double midEcon1, double midEng1) {
+                 id = id1;
+                 name = name1;
+                 surname = surname1;
+                 year = year1;
+                 midMath = midMath1;
+                 midEcon = midEcon1;
+                 midEng = midEng1;
+         }
+         Student( int id2, String name2, String surname2,int year2){
+                 id=id2;
+                 name=name2;
+                 surname=surname2;
+                 year=year2;
+         }
+         Student() {
+         }
+ }
 
-    public double getMiddle() {
-        return (midMath + midEcon + midEng) / 3;
-    }
-
-    public static class Main {
+//
+//    @Override
+//    public String toString() {
+//        return "Средняя арифметическая оценка" + " " + name + " " + surname + "=" + (midMath + midEcon + midEng) / 3;
+//    }
+//
+//    public double getMiddle() {
+//        return (midMath + midEcon + midEng) / 3;
+//    }
+//
+//    public static class Main {
     //
     //    // 128 64 32 16 8 4 2 1
     //
@@ -90,9 +112,9 @@ public class Student {
     //        int y1 = 8;
     //        int x1 = ++y1 - y1++ + ++y1 - --y1;
     //        System.out.println(x1);
-        }
-}
-// сноска mid - middle указывает на среднее значение определнного предмета(математика,экономика и английский);
+//        }
+//}
+//// сноска mid - middle указывает на среднее значение определнного предмета(математика,экономика и английский);
 
 
 
