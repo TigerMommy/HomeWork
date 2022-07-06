@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31110048-3af8-4513-afaa-b3a1481c8ff7" name="Changes" comment="second lesson">
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson6/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson07/Employee001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson07/Employee002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson07/Employee003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson07b/Employee004Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson07b/Employee005Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson07b/Employee006Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/Employee/Employee02.java" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Employee/Employee02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson05/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson05/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson05/BankAccountTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson05/BankAccountTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +74,7 @@
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/Java/HomeWork/LevelOne&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
@@ -83,9 +87,52 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Java\HomeWork" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Lesson05" />
+      <recent name="Employee" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.MethodOverloadingTest">
-    <configuration name="BankAccountTest" type="Application" factoryName="Application" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Employee006Test">
+    <configuration name="Employee004Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson07b.Employee004Test" />
+      <module name="LevelOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson07b.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Employee005Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson07b.Employee005Test" />
+      <module name="LevelOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson07b.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Employee006Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson07b.Employee006Test" />
+      <module name="LevelOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson07b.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson05.BankAccountTest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson05.BankAccountTest" />
       <module name="LevelOne" />
       <extension name="coverage">
@@ -98,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BankAccountTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson05.BankAccountTest02" />
+    <configuration name="Lesson07.Employee001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson07.Employee001" />
       <module name="LevelOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson05.*" />
+          <option name="PATTERN" value="Lesson07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,51 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Employee02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Employee.Employee02" />
+    <configuration name="Lesson07.Employee002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson07.Employee002" />
       <module name="LevelOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Employee.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodOverLoadingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson6.MethodOverLoadingTest" />
-      <module name="LevelOne" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson6.MethodOverloading" />
-      <module name="LevelOne" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodOverloadingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson6.MethodOverloadingTest" />
-      <module name="LevelOne" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson6.*" />
+          <option name="PATTERN" value="Lesson07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,20 +185,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BankAccountTest" />
-      <item itemvalue="Application.MethodOverloadingTest" />
-      <item itemvalue="Application.Employee02" />
-      <item itemvalue="Application.MethodOverLoadingTest" />
-      <item itemvalue="Application.MethodOverloading" />
-      <item itemvalue="Application.BankAccountTest02" />
+      <item itemvalue="Application.Lesson05.BankAccountTest" />
+      <item itemvalue="Application.Employee004Test" />
+      <item itemvalue="Application.Employee005Test" />
+      <item itemvalue="Application.Employee006Test" />
+      <item itemvalue="Application.Lesson07.Employee001" />
+      <item itemvalue="Application.Lesson07.Employee002" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodOverloadingTest" />
-        <item itemvalue="Application.MethodOverLoadingTest" />
-        <item itemvalue="Application.MethodOverloading" />
-        <item itemvalue="Application.BankAccountTest02" />
-        <item itemvalue="Application.Employee02" />
+        <item itemvalue="Application.Employee006Test" />
+        <item itemvalue="Application.Employee005Test" />
+        <item itemvalue="Application.Employee004Test" />
+        <item itemvalue="Application.Lesson07.Employee001" />
+        <item itemvalue="Application.Lesson07.Employee002" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +337,28 @@
       <option name="project" value="LOCAL" />
       <updated>1656153405491</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="second lesson">
+      <created>1656500780218</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1656500780218</updated>
+    </task>
+    <task id="LOCAL-00020" summary="second lesson">
+      <created>1656668284130</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1656668284130</updated>
+    </task>
+    <task id="LOCAL-00021" summary="second lesson">
+      <created>1656679422288</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1656679422288</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -337,7 +366,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

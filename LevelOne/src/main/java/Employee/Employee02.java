@@ -1,7 +1,5 @@
 package Employee;
 
-import jdk.swing.interop.SwingInterOpUtils;
-
 public class Employee02 {
     public static void main(String[] args) {
 
