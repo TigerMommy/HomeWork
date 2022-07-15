@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31110048-3af8-4513-afaa-b3a1481c8ff7" name="Changes" comment="second lesson">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson07/Employee001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson07/Employee002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson07/Employee003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson07b/Employee004Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson07b/Employee005Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson07b/Employee006Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson8/FinaleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson8/Static8DZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson8/StaticHomeTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/Employee/Employee02.java" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Employee/Employee02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson6/OverloadMethodDZ.java" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson6/OverloadMethodDZ.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,39 +88,13 @@
       <recent name="Employee" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Employee006Test">
-    <configuration name="Employee004Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson07b.Employee004Test" />
+  <component name="RunManager" selected="Application.StaticHomeTask">
+    <configuration name="FinaleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson8.FinaleTest" />
       <module name="LevelOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson07b.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Employee005Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson07b.Employee005Test" />
-      <module name="LevelOne" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson07b.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Employee006Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson07b.Employee006Test" />
-      <module name="LevelOne" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson07b.*" />
+          <option name="PATTERN" value="Lesson8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson07.Employee001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson07.Employee001" />
+    <configuration name="Lesson8.Lesson8Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson8.Lesson8Task" />
       <module name="LevelOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson07.*" />
+          <option name="PATTERN" value="Lesson8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +128,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson07.Employee002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson07.Employee002" />
+    <configuration name="Lesson8.Lesson8bTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson8.Lesson8bTask" />
       <module name="LevelOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson07.*" />
+          <option name="PATTERN" value="Lesson8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson8.Static8DZ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson8.Static8DZ" />
+      <module name="LevelOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticHomeTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson8.StaticHomeTask" />
+      <module name="LevelOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,19 +182,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Lesson05.BankAccountTest" />
-      <item itemvalue="Application.Employee004Test" />
-      <item itemvalue="Application.Employee005Test" />
-      <item itemvalue="Application.Employee006Test" />
-      <item itemvalue="Application.Lesson07.Employee001" />
-      <item itemvalue="Application.Lesson07.Employee002" />
+      <item itemvalue="Application.Lesson8.FinaleTest" />
+      <item itemvalue="Application.Lesson8.Lesson8Task" />
+      <item itemvalue="Application.Lesson8.Lesson8bTask" />
+      <item itemvalue="Application.Lesson8.Static8DZ" />
+      <item itemvalue="Application.StaticHomeTask" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Employee006Test" />
-        <item itemvalue="Application.Employee005Test" />
-        <item itemvalue="Application.Employee004Test" />
-        <item itemvalue="Application.Lesson07.Employee001" />
-        <item itemvalue="Application.Lesson07.Employee002" />
+        <item itemvalue="Application.StaticHomeTask" />
+        <item itemvalue="Application.Lesson8.Static8DZ" />
+        <item itemvalue="Application.Lesson8.Lesson8bTask" />
+        <item itemvalue="Application.Lesson8.Lesson8Task" />
+        <item itemvalue="Application.Lesson8.FinaleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -358,7 +354,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656679422288</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="second lesson">
+      <created>1657124798993</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1657124798993</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
