@@ -4,12 +4,15 @@ public class OverloadMethodDZ {
     int MetOver(int i1) {
         return i1;
     }
+
     int MetOver(int i1, int i2) {
         return i1 + i2;
     }
+
     int MetOver(int i1, int i2, int i3) {
         return i1 + i2 + i3;
     }
+
     int MetOver(int i1, int i2, int i3, int i4) {
         return i1 + i2 + i3 + i4;
     }

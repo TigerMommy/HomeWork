@@ -6,10 +6,19 @@
   <component name="ChangeListManager">
     <list default="true" id="31110048-3af8-4513-afaa-b3a1481c8ff7" name="Changes" comment="second lesson">
       <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson8/FinaleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson8/Static8DZ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson8/StaticHomeTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson8/KrugHomeTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson8/KrugHomeTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson9/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson9/Bike2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson9/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson9/HomeTask9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson9/HomeTask9b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson9/HomeTask9c.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson9/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson6/OverloadMethodDZ.java" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson6/OverloadMethodDZ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson8/Static8DZ.java" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson8/Static8DZ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson8/StaticHomeTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson8/StaticHomeTask.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,9 +97,61 @@
       <recent name="Employee" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StaticHomeTask">
-    <configuration name="FinaleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson8.FinaleTest" />
+  <component name="RunManager" selected="Application.Bike2">
+    <configuration name="Bike2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson9.Bike2" />
+      <module name="LevelOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeTask9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson9.HomeTask9" />
+      <module name="LevelOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeTask9b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson9.HomeTask9b" />
+      <module name="LevelOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeTask9c" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson9.HomeTask9c" />
+      <module name="LevelOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KrugHomeTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson8.KrugHomeTask2" />
       <module name="LevelOne" />
       <extension name="coverage">
         <pattern>
@@ -115,58 +176,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson8.Lesson8Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson8.Lesson8Task" />
-      <module name="LevelOne" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lesson8.Lesson8bTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson8.Lesson8bTask" />
-      <module name="LevelOne" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lesson8.Static8DZ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson8.Static8DZ" />
-      <module name="LevelOne" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StaticHomeTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson8.StaticHomeTask" />
-      <module name="LevelOne" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="HomeWork" />
       <method v="2">
@@ -182,19 +191,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Lesson05.BankAccountTest" />
-      <item itemvalue="Application.Lesson8.FinaleTest" />
-      <item itemvalue="Application.Lesson8.Lesson8Task" />
-      <item itemvalue="Application.Lesson8.Lesson8bTask" />
-      <item itemvalue="Application.Lesson8.Static8DZ" />
-      <item itemvalue="Application.StaticHomeTask" />
+      <item itemvalue="Application.Bike2" />
+      <item itemvalue="Application.HomeTask9" />
+      <item itemvalue="Application.HomeTask9b" />
+      <item itemvalue="Application.HomeTask9c" />
+      <item itemvalue="Application.KrugHomeTask2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StaticHomeTask" />
-        <item itemvalue="Application.Lesson8.Static8DZ" />
-        <item itemvalue="Application.Lesson8.Lesson8bTask" />
-        <item itemvalue="Application.Lesson8.Lesson8Task" />
-        <item itemvalue="Application.Lesson8.FinaleTest" />
+        <item itemvalue="Application.Bike2" />
+        <item itemvalue="Application.HomeTask9c" />
+        <item itemvalue="Application.HomeTask9b" />
+        <item itemvalue="Application.HomeTask9" />
+        <item itemvalue="Application.KrugHomeTask2" />
       </list>
     </recent_temporary>
   </component>
