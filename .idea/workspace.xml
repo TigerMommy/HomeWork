@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31110048-3af8-4513-afaa-b3a1481c8ff7" name="Changes" comment="second lesson">
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson8/FinaleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson8/KrugHomeTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson8/KrugHomeTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson9/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson9/Bike2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson9/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson9/HomeTask9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson9/HomeTask9b.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson9/HomeTask9c.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson9/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson6/OverloadMethodDZ.java" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson6/OverloadMethodDZ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson8/Static8DZ.java" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson8/Static8DZ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson8/StaticHomeTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson8/StaticHomeTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson9/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson9/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson9/Bike2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson9/Bike2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -370,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657124798993</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="second lesson">
+      <created>1658416928922</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1658416928922</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -4,7 +4,7 @@ public class Bike2 {
     public static void main(String[] args) {
 
         Bike Naked = new Bike();
-        Naked.show_Bike("Серый", "Двухцилиндровый", "Нейкд", 100);
+        Naked.showBike("Серый", "Двухцилиндровый", "Нейкд", 100);
         Naked.changeBike("Белый", "Восемьсот-кубовый", "Спорт", 120);
         Bike Turist = new Bike();
         Turist.changeBike("Красный", "Литровый", "Турист", 115.5);
@@ -27,6 +27,5 @@ public class Bike2 {
         Chopper=null;
         Classic=null;
         Triple=null;
-
     }
 }
